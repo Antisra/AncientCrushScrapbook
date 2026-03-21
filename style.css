@@ -122,3 +122,132 @@ p {
   font-size: 1.3rem;
   line-height: 1.5;
 }
+
+.Gamersand { background-image: url("https://i.postimg.cc/dVcK72GR/Copy-of-Copy-of-Copy-of-Untitled-Design-(1).png");
+  background-size: 100% 100%;             /* fills screen nicely */
+  background-position: center center cover;
+  background-repeat: repeat;
+      background-attatchment: fixed;
+}
+
+.Gamersand { display: flex;
+  flex-direction: column;
+  justify-content: center;     /* vertical center in viewport */
+  align-items: center;         /* horizontal center */
+  min-height: 100vh;           /* at least full screen – use min- so it can grow */
+  text-align: center;
+  gap: 1.5rem;                 /* space between title, images, paragraphs */
+  padding: 1rem;               /* breathing room on edges */
+}
+
+/* Images: keep proportions, center them, make responsive */
+img {
+  max-width: 100%;             /* never overflow screen */
+  height: auto;                /* preserve aspect ratio */
+  display: block;              /* remove bottom gap */
+  border: dotted; border-color: purple green;     /* optional: polaroid-style border */
+  box-shadow: 0 4px 15px rgba(0,0,0,0.4); /* optional: depth */
+  border-radius: 8px;
+}
+
+/* Text styling */
+h1 {
+  color: purple;
+  margin: 0.4em 0;
+  font-size: 3.5rem;
+  text-shadow: 2px 2px 4px rgba(0,0,0,0.3); /* helps readability on bg */
+}
+
+p {
+  color: green;
+  margin: 0.6em 0;
+  max-width: 700px;            /* prevents super wide lines */
+  font-size: 1.3rem;
+  line-height: 1.5;
+}
+
+.morecrushes { background-image: url("https://i.postimg.cc/2825hX81/Copy-of-Copy-of-Copy-of-Untitled-Design.png");
+  background-size: 100% 100%;             /* fills screen nicely */
+  background-position: center center cover;
+  background-repeat: repeat;
+      background-attatchment: fixed;
+}
+
+.morecrushes { display: flex;
+  flex-direction: column;
+  justify-content: center;     /* vertical center in viewport */
+  align-items: center;         /* horizontal center */
+  min-height: 100vh;           /* at least full screen – use min- so it can grow */
+  text-align: center;
+  gap: 1.5rem;                 /* space between title, images, paragraphs */
+  padding: 1rem;               /* breathing room on edges */
+}
+
+/* Images: keep proportions, center them, make responsive */
+img {
+  max-width: 100%;             /* never overflow screen */
+  height: auto;                /* preserve aspect ratio */
+  display: block;              /* remove bottom gap */
+  border: dotted; border-color: purple green;     /* optional: polaroid-style border */
+  box-shadow: 0 4px 15px rgba(0,0,0,0.4); /* optional: depth */
+  border-radius: 8px;
+}
+
+/* Text styling */
+h1 {
+  color: purple;
+  margin: 0.4em 0;
+  font-size: 3.5rem;
+  text-shadow: 2px 2px 4px rgba(0,0,0,0.3); /* helps readability on bg */
+}
+
+p {
+  color: green;
+  margin: 0.6em 0;
+  max-width: 700px;            /* prevents super wide lines */
+  font-size: 1.3rem;
+  line-height: 1.5;
+}
+
+.rappers { background-image: url("https://i.postimg.cc/HxryJ1Cf/8cf1588a-f013-48e7-9f74-2f41e853a75c.jpg");
+  background-size: 100% 100%;             /* fills screen nicely */
+  background-position: center center cover;
+  background-repeat: repeat;
+      background-attatchment: fixed;
+}
+
+.rappers { display: flex;
+  flex-direction: column;
+  justify-content: center;     /* vertical center in viewport */
+  align-items: center;         /* horizontal center */
+  min-height: 100vh;           /* at least full screen – use min- so it can grow */
+  text-align: center;
+  gap: 1.5rem;                 /* space between title, images, paragraphs */
+  padding: 1rem;               /* breathing room on edges */
+}
+
+/* Images: keep proportions, center them, make responsive */
+img {
+  max-width: 100%;             /* never overflow screen */
+  height: auto;                /* preserve aspect ratio */
+  display: block;              /* remove bottom gap */
+  border: dotted; border-color: purple green;     /* optional: polaroid-style border */
+  box-shadow: 0 4px 15px rgba(0,0,0,0.4); /* optional: depth */
+  border-radius: 8px;
+}
+
+/* Text styling */
+h1 {
+  color: purple;
+  margin: 0.4em 0;
+  font-size: 3.5rem;
+  text-shadow: 2px 2px 4px rgba(0,0,0,0.3); /* helps readability on bg */
+}
+
+p {
+  color: green;
+  margin: 0.6em 0;
+  max-width: 700px;            /* prevents super wide lines */
+  font-size: 1.3rem;
+  line-height: 1.5;
+}
