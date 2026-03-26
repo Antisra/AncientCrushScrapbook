@@ -253,14 +253,14 @@ p {
 }
 
 
-#forgot2 { background-image: url("https://i.postimg.cc/7h2DqGtk/Copy-of-Copy-of-Copy-of-Copy-of-Untitled-Design.png");
-  background-size: 100% 100%;             /* fills screen nicely */
+.forgot2 { background-image: url("https://i.postimg.cc/7h2DqGtk/Copy-of-Copy-of-Copy-of-Copy-of-Untitled-Design.png");
+  background-size: 100%;             /* fills screen nicely */
   background-position: center center cover;
   background-repeat: repeat;
       background-attatchment: fixed;
 }
 
-#forgot2 { display: flex;
+ .forgot2 { display: flex;
   flex-direction: column;
   justify-content: center;     /* vertical center in viewport */
   align-items: center;         /* horizontal center */
